@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project uses Power BI Desktop to analyze job market data collected between 2017 and 2021. The purpose of this analysis is to uncover trends and insights regarding job postings, skills demand, experience levels, and compensation trends within various industries and company sizes. With an emphasis on data-driven decision-making, the study aims to inform stakeholders about the current job market landscape and emerging opportunities in the realm of technology and business analytics [citeturn0file0].
+This project uses Power BI Desktop to analyze job market data collected between 2017 and 2021. The purpose of this analysis is to uncover trends and insights regarding job postings, skills demand, experience levels, and compensation trends within various industries and company sizes. With an emphasis on data-driven decision-making, the study aims to inform stakeholders about the current job market landscape and emerging opportunities in the realm of technology and business analytics .
 
 ## Data Overview
 
